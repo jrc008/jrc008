@@ -16,7 +16,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,matlab,r,latex,css,figma,github,html,java,md,mysql,py,tensorflow&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,matlab,r,latex,css,figma,github,html,java,md,mysql,py,tensorflow&perline=13" />
   </a>
 </p>
 
