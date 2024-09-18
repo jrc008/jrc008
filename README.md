@@ -1,5 +1,7 @@
 # Hi 👋, I'm Jason
 
+### Come look at my coding teacher's github profile [here](https://github.com/MichaelYe48)
+
 <!--
 **jrc008/jrc008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
